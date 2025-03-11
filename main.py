@@ -1,4 +1,11 @@
+from operations import Calculator
+
+
+
+
+
 if __name__ == "_main_":
+    calc = Calculator()
 
     print("Simple Calculator")
     print("Select operation:")
