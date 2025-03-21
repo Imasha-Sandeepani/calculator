@@ -27,3 +27,5 @@ if __name__ == "__main__":
         print(f"Result: {calc.divide(num1, num2)}")
     elif choice == '5':
         print(f"Result: {calc.power(num1, num2)}")
+    else:
+        print("Invalid Input,Please enter a correct operation")
